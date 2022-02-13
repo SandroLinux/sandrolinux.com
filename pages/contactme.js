@@ -10,7 +10,7 @@ export default function Home() {
       <Header></Header>
       <main className={styles.main}>
       <h2>How to contact me</h2>
-      <p>You can contact me at sandrolinux@aol.com</p>
+      <p>You can contact me at hello@sandrolinux.com</p>
       </main>
       <Footer></Footer>
     </div>

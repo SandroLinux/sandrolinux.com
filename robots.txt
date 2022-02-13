@@ -1,0 +1,57 @@
+# robots.txt file for sandrolinux.com
+# Made before the takeover of great bingus
+# News Crawlers
+
+User-agent: Baiduspider-news
+Allow: /news/
+Disallow: /
+
+User-agent: Sogou News Spider
+Allow: /news/
+Disallow: /
+
+User-agent: Qwant-news
+Allow: /news/
+Disallow: /
+
+#Bad Bots
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+#Rules for other crawlers
+User-agent: *
+Allow: /news/
+Allow: /news.html
+Allow: /index.html
+Disallow: /aboutthiswebsite.html
+Disallow: /otherstuff.html
+Allow: /contactme.html
+
+Sitemap: https://www.sandrolinux.com/sitemaps/sitemap.xml
