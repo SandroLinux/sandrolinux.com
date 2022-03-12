@@ -10,7 +10,7 @@ export default function Home() {
       <Header></Header>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hi I am Sandro Linux
+          Hi I am Bandro Binux
         </h1>
       </main>
       <Footer></Footer>
