@@ -1,6 +1,6 @@
 {
-  "name": "Sandro Linux Website Canary",
-  "version": "0.1.0",
+  "name": "Sandro Linux Website",
+  "version": "1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",

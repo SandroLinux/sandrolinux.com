@@ -22,14 +22,17 @@ export default function Header() {
        <Link href="news">
        <a>News</a>
        </Link>
+       <Link href="videos">
+       <a>Videos</a>
+       </Link>
        <Link href="contactme">
        <a>Contact</a>
        </Link>
-       <Link href="aboutthiswebsite">
-       <a>About</a>
-       </Link>
        <Link href="otherstuff">
        <a>Other Stuff</a>
+       </Link>
+       <Link href="aboutthiswebsite">
+       <a>About</a>
        </Link>
        </div>
     </div>
