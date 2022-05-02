@@ -10,7 +10,7 @@ export default function Otherstuff() {
       <Header></Header>
       <main className={styles.main}>
         <h1><u>My Latest Video</u></h1>
-        <h2>YouTube</h2>
+        <h2><u>YouTube</u></h2>
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yZAT8oRxCEs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </main>
       <Footer></Footer>
