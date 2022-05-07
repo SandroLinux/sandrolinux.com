@@ -14,6 +14,7 @@ export default function Header() {
         <link rel="icon" href="/favicon.png" />
         <meta name="msvalidate.01" content="3649A606B35320B079D9EFB34001AAC3" />
         <meta name="wot-verification" content="788fa3777db13ec60fab"/>
+        <meta name="keywords" content="sandro linux, linux, browsers, sandro, oscar sanderson"/>
       </Head>
       <div className={styles.navbar}>
        <Link href="../../">
