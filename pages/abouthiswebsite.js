@@ -10,7 +10,7 @@ export default function Home() {
       <Header></Header>
       <main className={styles.main}>
       <h2>Why I Created This Site</h2>
-      <p>I created this website because it is a good way to learn html and share news about my channels</p>
+      <p>I created this website because it is a good way to learn HTML and share news about my channels</p>
       </main>
       <Footer></Footer>
     </div>
